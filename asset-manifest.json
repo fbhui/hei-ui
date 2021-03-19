@@ -1,0 +1,41 @@
+{
+  "files": {
+    "static/js/0.9a88e681.chunk.js": "/static/js/0.9a88e681.chunk.js",
+    "main.css": "/static/css/main.04ecfa38.chunk.css",
+    "main.js": "/static/js/main.a4bde85d.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.6c9a54c4.js",
+    "static/js/3.1bf213c1.chunk.js": "/static/js/3.1bf213c1.chunk.js",
+    "static/js/4.059acb15.chunk.js": "/static/js/4.059acb15.chunk.js",
+    "static/js/5.85773e47.chunk.js": "/static/js/5.85773e47.chunk.js",
+    "static/js/6.b754c096.chunk.js": "/static/js/6.b754c096.chunk.js",
+    "static/js/7.89449f8e.chunk.js": "/static/js/7.89449f8e.chunk.js",
+    "static/js/8.50e062b9.chunk.js": "/static/js/8.50e062b9.chunk.js",
+    "static/js/9.f354a6b8.chunk.js": "/static/js/9.f354a6b8.chunk.js",
+    "static/js/10.9ef4c100.chunk.js": "/static/js/10.9ef4c100.chunk.js",
+    "static/js/11.1ba9ee46.chunk.js": "/static/js/11.1ba9ee46.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.6519fec4f81fcad7f16aa7e6beb05961.js": "/precache-manifest.6519fec4f81fcad7f16aa7e6beb05961.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/3.1bf213c1.chunk.js.LICENSE.txt": "/static/js/3.1bf213c1.chunk.js.LICENSE.txt",
+    "static/js/5.85773e47.chunk.js.LICENSE.txt": "/static/js/5.85773e47.chunk.js.LICENSE.txt",
+    "static/js/6.b754c096.chunk.js.LICENSE.txt": "/static/js/6.b754c096.chunk.js.LICENSE.txt",
+    "static/js/7.89449f8e.chunk.js.LICENSE.txt": "/static/js/7.89449f8e.chunk.js.LICENSE.txt",
+    "static/js/8.50e062b9.chunk.js.LICENSE.txt": "/static/js/8.50e062b9.chunk.js.LICENSE.txt",
+    "static/media/00.png": "/static/media/00.944c6183.png",
+    "static/media/01.png": "/static/media/01.acd8feb3.png",
+    "static/media/02.png": "/static/media/02.ce66c722.png",
+    "static/media/03.png": "/static/media/03.6016409c.png",
+    "static/media/04.png": "/static/media/04.7d8953f5.png",
+    "static/media/index.css": "/static/media/bg.b3bc6cbc.png",
+    "static/media/h_1.png": "/static/media/h_1.5996d4be.png",
+    "static/media/h_2.png": "/static/media/h_2.2b427904.png",
+    "static/media/logo.png": "/static/media/logo.2ffa1f33.png",
+    "static/media/wechat.png": "/static/media/wechat.1e1171d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c9a54c4.js",
+    "static/js/3.1bf213c1.chunk.js",
+    "static/css/main.04ecfa38.chunk.css",
+    "static/js/main.a4bde85d.chunk.js"
+  ]
+}
